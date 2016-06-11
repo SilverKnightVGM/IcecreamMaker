@@ -17,7 +17,3 @@ nbbuild/
 dist/
 nbdist/
 nbactions.xml
-
-#Platform files
-project.properties
-project.xml
