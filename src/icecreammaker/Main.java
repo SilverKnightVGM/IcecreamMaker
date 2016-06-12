@@ -88,6 +88,7 @@ public class Main {
 	    }
 	    
         String ComboDeleted = iceMaker.deleteCombo(ComboToDelete);
+        System.out.println(ComboDeleted);
         
         if (ComboDeleted != null) {
         	System.out.println(ComboDeleted + " borrado exitosamente.\n");
